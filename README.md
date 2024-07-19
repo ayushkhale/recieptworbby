@@ -17,7 +17,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ayushkhale/Recordsvita.git
+   git clone https://github.com/ayushkhale/recieptworbby.git
    cd Recordsvita
    ```
 
